@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Signal Test Commons"
+type: software
+authors:
+  - family-names: "Brisson"
+    given-names: "Jean-François"
+    affiliation: "Spark AI NLP"
+version: 2.0.0
+date-released: "2026-09-29"
+license: AGPL-3.0-only
+repository-code: "https://github.com/sparkainlp-x/signal-test-commons"
+abstract: "Deterministic, versioned synthetic challenge suite for evaluating 512-channel signal monitors offline."
