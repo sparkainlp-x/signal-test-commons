@@ -1,5 +1,7 @@
 # Signal Test Commons
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23057992.svg)](https://doi.org/10.5281/zenodo.23057992)
+
 Signal Test Commons is a compact, deterministic, versioned **synthetic** challenge suite for evaluating 512-channel signal monitors offline. It uses only the Python standard library and generates frames of 512 channels arranged as a 16 × 32 row-major grid. A channel ID is one grid position, `row * 32 + column` (IDs 0–511); predictions and ground truth are always sets of individual channels.
 
 ## Quickstart
