@@ -1,6 +1,10 @@
 # Signal Test Commons
 
+[![tests](https://github.com/sparkainlp-x/signal-test-commons/actions/workflows/tests.yml/badge.svg)](https://github.com/sparkainlp-x/signal-test-commons/actions/workflows/tests.yml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23057992.svg)](https://doi.org/10.5281/zenodo.23057992)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
+[![Status: research prototype](https://img.shields.io/badge/status-research%20prototype-orange.svg)](#challenge-contents-version-200)
+[![Evidence: SYNTHETIC](https://img.shields.io/badge/evidence-SYNTHETIC-blue.svg)](#challenge-contents-version-200)
 
 Signal Test Commons is a compact, deterministic, versioned **synthetic** challenge suite for evaluating 512-channel signal monitors offline. It uses only the Python standard library and generates frames of 512 channels arranged as a 16 × 32 row-major grid. A channel ID is one grid position, `row * 32 + column` (IDs 0–511); predictions and ground truth are always sets of individual channels.
 
