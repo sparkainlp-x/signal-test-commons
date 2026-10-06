@@ -1,0 +1,35 @@
+{
+  "upload_type": "software",
+  "title": "Signal Test Commons",
+  "description": "<p>Deterministic, versioned synthetic challenge suite for evaluating 512-channel signal monitors offline.</p>",
+  "creators": [
+    {
+      "name": "Brisson, Jean-François",
+      "affiliation": "Spark AI NLP",
+      "orcid": "0009-0000-9778-5374"
+    }
+  ],
+  "access_right": "open",
+  "license": "AGPL-3.0-only",
+  "keywords": [
+    "synthetic-benchmark",
+    "signal-monitoring",
+    "512-channel",
+    "deterministic",
+    "offline",
+    "research software"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/sparkainlp-x/signal-test-commons",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "spark-ai-nlp"
+    }
+  ]
+}
