@@ -10,6 +10,13 @@ authors:
     orcid: "https://orcid.org/0009-0000-9778-5374"
 version: 2.0.2
 date-released: "2026-10-08"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23057992
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23241684
+    description: "Version DOI for v2.0.2"
 license: AGPL-3.0-only
 repository-code: "https://github.com/sparkainlp-x/signal-test-commons"
 abstract: "Deterministic, versioned synthetic challenge suite for evaluating 512-channel signal monitors offline."

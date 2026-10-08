@@ -154,6 +154,10 @@ A local detector can consume `challenge.frames`; each frame's 512 values are ava
 
 All data and scores are synthetic and deterministic for a given seed and challenge version. They are useful for exercising replay, event scoring, latency and spatial localization logic; **synthetic results do not establish or predict performance on physical instruments**. The scenarios, thresholds and amplitudes are illustrative choices, not calibrated settings. No real instrument data, network access, or external packages are used.
 
+## Citation
+
+See [CITATION.cff](CITATION.cff). Archived on Zenodo: concept DOI [10.5281/zenodo.23057992](https://doi.org/10.5281/zenodo.23057992) (all versions); v2.0.2: [10.5281/zenodo.23241684](https://doi.org/10.5281/zenodo.23241684).
+
 ## License
 
 This software is available under the GNU Affero General Public License v3.0 only (AGPL-3.0-only); see [LICENSE](LICENSE).
