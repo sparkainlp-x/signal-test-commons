@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata from this file."
-title: "Signal Test Commons"
+title: "Signal Test Commons: a deterministic synthetic challenge suite for 512-channel signal monitors"
 doi: 10.5281/zenodo.23057992
 type: software
 authors:
@@ -8,8 +8,8 @@ authors:
     given-names: "Jean-François"
     affiliation: "Spark AI NLP"
     orcid: "https://orcid.org/0009-0000-9778-5374"
-version: 2.0.0
-date-released: "2026-09-29"
+version: 2.0.2
+date-released: "2026-10-08"
 license: AGPL-3.0-only
 repository-code: "https://github.com/sparkainlp-x/signal-test-commons"
 abstract: "Deterministic, versioned synthetic challenge suite for evaluating 512-channel signal monitors offline."
